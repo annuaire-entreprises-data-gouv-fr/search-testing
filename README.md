@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/etalab/annuaire-entreprises-site/blob/main/public/images/annnuaire-entreprises.svg" width="400px" />
+  <img src="https://github.com/etalab/annuaire-entreprises-site/blob/main/public/images/annuaire-entreprises-paysage-large.gif" width="400px" />
 </h1>
 
 Bienvenue sur le dépôt de tests de recherche du projet [Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr).
